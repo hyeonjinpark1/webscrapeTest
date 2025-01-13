@@ -1,0 +1,103 @@
+  상단영역 바로가기 서비스 메뉴 바로가기 새소식 블록 바로가기 쇼핑 블록 바로가기 관심사 블록 바로가기 MY 영역 바로가기 위젯 보드 바로가기 보기 설정 바로가기    {"payload":{"requestId":"ace68a436b9e4dde80a28484989939e6","head":{"version":"0.0.1","description":"Naver SSP Waterfall List"},"eventTracking":{"ackImpressions":[{"url":"https://tivan.naver.com/sc2/1/"}],"activeViewImpressions":[{"url":"https://tivan.naver.com/sc2/2/"}],"clicks":[{"url":"https://tivan.naver.com/sc2/3/"}],"completions":[{"url":"https://tivan.naver.com/sc2/4/"}],"attached":[{"url":"https://tivan.naver.com/sc2/10/"}],"renderedImpressions":[{"url":"https://tivan.naver.com/sc2/11/"}],"viewableImpressions":[{"url":"https://tivan.naver.com/sc2/12/"}],"loadErrors":[{"url":"https://tivan.naver.com/sc2/91/"}],"startErrors":[{"url":"https://tivan.naver.com/sc2/92/"}],"lazyRenderMediaFailed":[{"url":"https://tivan.naver.com/sc2/93/"}],"mute":[{"url":"https://tivan.naver.com/sc2/5/"}],"close":[{"url":"https://tivan.naver.com/sc2/6/"}]},"adUnit":"p_main_timeboard_v1","randomNumber":80,"adDivId":"ad_timeboard","advertiserDomains":["booking.naver.com"],"adDuplicationKeys":["URL:https://booking.naver.com/"],"ads":[{"encrypted":"7nw38mjoXhS-RlTp3bFi2q1um5vK-VchAqNrRishMr_5ik529Hjln8qvF-r4KiAKVFJO8hKnZ-RPm-9V_1LZOLGnIiNuhEmhSHWtpLmPHK95-HkO6TtjIJZ2yKH5hGgWy5QiUmocy0eCbps_GJdB_uGDZLWBP5GHpsYwIJogiXIlDEKiG-PyRd_eBmoSZy10GQmnWwTCir_BnWE5OuyT25fZTY5AtnDyvnf2jsvVV_33NolUZNyaTEaFZPa_ur5z5b-TPbLuMsn1KdiYHYO9w0HtXWIB4_eXFRGpwO3qyQgUDQ3NNSKRXCi0lCw1MrKqnouboNuk0M3Md0bvcf3r58_BnthTGGB9OZiZiReXymtYCkAVxDgm3w8Ytf3rrZcqmBUtfrcVoBDPGl5ZLaKU_LfrUhpu86L2As5crnHsHCgDNajVu6D3E43zq_0uSLPxHW-LJuqSDTxEa8QNdj27tXcuGVDHrkIJpn39LUOOYFCa7UekOHUdS5CUPM7Gv70Bw-_olRMAgA9oUpsazWwxlh1M78L54XJGtGtS_d4cjfx73YuERRTMEDzg3EPOWA1Uegv1x7hyMKXIe0TvRGRRAhu1xZkt8J-g-oC1iq1K80l8ZU6sl1uCV_li4ZFsb4qGcqtZxvi9710yDP4_5hpq1zAN35NQPgSxSeUsWcB39BdAsg5mR_vsFtELsumDHqNRhPJHlUFh3XLyxQAmE9oStTr992IEFTXaQulaN0ztaxLAzM8oUVJqLKsgKYaGvEUxP-_dtOPS1Ncf1usWXIdAYkAQN4AAP1QM_gpNalGrojQJxiLcKDRQ8ArYKTijXeZK04-fDA6Nzxb9d7QmHdkHnQ==","connectionType":"S2S","adProviderType":"IN_NAVER","adProviderName":"NDP_SF","layoutType":"FLUID","creativeType":"BANNER","renderType":"SF","eventTracking":{"ackImpressions":[{"url":"https://siape.veta.naver.com/openrtb/nurl?eu=EU10043565\u0026calp=-\u0026oj=cQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%2Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%2Fwy6g0DT9qCwb3nOqX%2FaUnNzbrNg1uOFbRL%2BjtFEd3a4txii4F7f2%2FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%2Bjskg8Ds2%2FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%2B0EyEH%2F3kUXy6CyeKBmzL2C%2BZ8XKEzQ\u0026ac=9066535\u0026src=7413573\u0026evtcd=BID_WIN\u0026x_ti=1504\u0026rk=nmvWZkskIqnn1KAIEoLtlg\u0026eltts=x6pR%2FLdKRknv7qVht2LeEg%3D%3D\u0026brs=Y\u0026"}],"attached":[],"activeViewImpressions":[],"renderedImpressions":[],"viewableImpressions":[],"clicks":[],"vimp1px":[],"vimp100":[],"vimp100p":[],"admute":[],"advmute":[],"like":[],"unlike":[],"close":[],"bounce":[]},"adInfo":{"placeId":"6436232db28a76002ea3f30c","adomain":["booking.naver.com"],"cid":"1521138","crid":"2704873","exp":86400,"adm":"%3Cscript%20src%3D%22https%3A%2F%2Fssl.pstatic.net%2Fmelona%2Flibs%2Fglad%2Fbridge%2Fgfp-bridge.js%22%3E%3C%2Fscript%3E%0D%0A%0D%0A%3Ca%20href%3D%22https%3A%2F%2Fsiape.veta.naver.com%2Ffxclick%3Feu%3DEU10043565%26calp%3D-%26oj%3DcQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%252Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%252Fwy6g0DT9qCwb3nOqX%252FaUnNzbrNg1uOFbRL%252BjtFEd3a4txii4F7f2%252FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%252Bjskg8Ds2%252FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%252B0EyEH%252F3kUXy6CyeKBmzL2C%252BZ8XKEzQ%26ac%3D9066535%26src%3D7413573%26br%3D4658433%26evtcd%3DP901%26x_ti%3D1504%26tb%3D%26oid%3D%26sid1%3D%26sid2%3D%26rk%3DnmvWZkskIqnn1KAIEoLtlg%26eltts%3Dx6pR%252FLdKRknv7qVht2LeEg%253D%253D%26brs%3DY%26%22%20id%3D%22ac_banner_a%22%20target%3D%22_blank%22%20style%3D%22display%3Ablock%22%3E%0D%0A%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fssl.pstatic.net%2Fmelona%2Flibs%2F1521%2F1521138%2F69d3c1d276b6a30de790_20241223184203757.jpg%22%20width%3D%22830%22%20height%3D%22130%22%20alt%3D%22%5B%EA%B4%91%EA%B3%A0%5D%EB%84%A4%EC%9D%B4%EB%B2%84%EC%98%88%EC%95%BD%20N%EC%98%88%EC%95%BD%EC%97%90%EC%84%9C%20%EB%A7%8C%EB%82%98%EB%8A%94%20%EB%A0%88%EC%A0%80%20%EA%B2%A8%EC%9A%B8%20%ED%8A%B9%EA%B0%80%20%EC%83%88%ED%95%B4%EC%97%90%EB%8F%84%20%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94%20%ED%95%A0%EC%9D%B8%20%EB%A6%B4%EB%A0%88%EC%9D%B4%21%22%3E%0D%0A%3C%2Fa%3E%0D%0A%0D%0A%3Cscript%20type%3D%22text%2Fjavascript%22%20src%3D%22https%3A%2F%2Fssl.pstatic.net%2Fmelona%2Flibs%2Fassets%2Fjs%2Fpc%2Fmain%2Fmin%2Fpc.veta.core.min.js%3F20240228%22%3E%3C%2Fscript%3E%0D%0A%3Cscript%20type%3D%22text%2Fjavascript%22%3E%0D%0A%20%20%20%20%28function%28ns%2C%20bridge%29%20%7B%0D%0A%20%20%20%20%20%20%20%20var%20LOG%20%3D%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20VIEWABLED%3A%20%22https%3A%2F%2Fsiape.veta.naver.com%2Ffxview%3Feu%3DEU10043565%26calp%3D-%26oj%3DcQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%252Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%252Fwy6g0DT9qCwb3nOqX%252FaUnNzbrNg1uOFbRL%252BjtFEd3a4txii4F7f2%252FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%252Bjskg8Ds2%252FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%252B0EyEH%252F3kUXy6CyeKBmzL2C%252BZ8XKEzQ%26ac%3D9066535%26src%3D7413573%26evtcd%3DV900%26x_ti%3D1504%26tb%3D%26oid%3D%26sid1%3D%26sid2%3D%26rk%3DnmvWZkskIqnn1KAIEoLtlg%26eltts%3Dx6pR%252FLdKRknv7qVht2LeEg%253D%253D%26brs%3DY%26%26eid%3DV900%22%2C%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20RENDERED%3A%20%22https%3A%2F%2Fsiape.veta.naver.com%2Ffxview%3Feu%3DEU10043565%26calp%3D-%26oj%3DcQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%252Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%252Fwy6g0DT9qCwb3nOqX%252FaUnNzbrNg1uOFbRL%252BjtFEd3a4txii4F7f2%252FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%252Bjskg8Ds2%252FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%252B0EyEH%252F3kUXy6CyeKBmzL2C%252BZ8XKEzQ%26ac%3D9066535%26src%3D7413578%26evtcd%3DV602%26x_ti%3D1504%26tb%3D%26oid%3D%26sid1%3D%26sid2%3D%26rk%3DnmvWZkskIqnn1KAIEoLtlg%26eltts%3Dx6pR%252FLdKRknv7qVht2LeEg%253D%253D%26brs%3DY%26%26eid%3DV810%22%0D%0A%20%20%20%20%20%20%20%20%7D%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20var%20util%20%3D%20ns.Util%20%3F%20new%20ns.Util%28%29%20%3A%20new%20NBP_CORP.Nimp%28%29%3B%0D%0A%20%20%20%20%20%20%20%20var%20gladSdkBridge%20%3D%20bridge.createSdkBridge%28%29%3B%0D%0A%20%20%20%20%20%20%20%20var%20eventList%20%3D%20%7B%7D%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20%2F%2F%20%EC%9D%91%EB%8B%B5%EB%85%B8%EC%B6%9C%0D%0A%20%20%20%20%20%20%20%20util.log%28LOG.RENDERED%29%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20%2F%2F%20%EC%9C%A0%ED%9A%A8%EB%85%B8%EC%B6%9C%0D%0A%20%20%20%20%20%20%20%20eventList%5Bbridge.EVENT.VIEWABLED%5D%20%3D%20function%28%29%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20util.log%28LOG.VIEWABLED%29%3B%0D%0A%20%20%20%20%20%20%20%20%7D%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20gladSdkBridge.setEventListeners%28eventList%29%3B%0D%0A%20%20%20%20%7D%29%28%0D%0A%20%20%20%20%20%20%20%20window.naver_corp_da%20%7C%7C%20%7B%7D%2C%0D%0A%20%20%20%20%20%20%20%20window.gladBridge%0D%0A%20%20%20%20%29%3B%0D%0A%3C%2Fscript%3E","encoded":1,"responseSize":{"height":130,"width":830,"force":0},"template":"%3C%21doctype%20html%3E%3Chtml%3E%3Chead%3E%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20user-scalable%3Dno%22%2F%3E%3Cstyle%20data-gfp-role%3D%22adMarkLegacyStyle%22%3E%5Bdata-gfp-role%3D%22adMarkLegacy%22%5D%20%7Bdisplay%3A%20none%3B%7D%3C%2Fstyle%3E%3Cscript%3Ewindow.gladBridge%20%3D%20%7BRUNTIME%3A%20%22InApp%22%7D%3B%3C%2Fscript%3E%3C%2Fhead%3E%3Cbody%20style%3D%22margin%3A%200%3B%20padding%3A%200%22%3E%7B%7Badm%7D%7D%3Cscript%20src%3D%22https%3A%2F%2Fssl.pstatic.net%2Ftveta%2Flibs%2Fglad_admute%2Fprod%2Fglad-admute.js%22%3E%3C%2Fscript%3E%3Cscript%3Econst%20adMuteOptions%20%3D%20%7BmuteUrl%3A%20%22%25%25MUTE_URL%25%25%22%2C%20privacyUrl%3A%20%22%25%25PRIV_URL%25%25%22%2C%20creativeType%3A%20%22BANNER%22%2C%20runtimeType%3A%20%22InApp%22%7D%3B%20if%28adMuteOptions.muteUrl%20%7C%7C%20adMuteOptions.privacyUrl%29%20%7B%20window.gladAdMute.checkAdMarkLegacyStyle%28adMuteOptions%29%3B%20const%20adMuteController%20%3D%20window.gladAdMute.createAdMuteController%28adMuteOptions%29%3B%20adMuteController.render%28%29%3B%20%7D%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E"}},{"encrypted":"mOpRPAxhOBLMexC9NS19dJikjxyi9Osus9CUjnR0VP1GIrYghJKBJj70owhBLGIZ5nywaI2N4NLTKIVlft9_-iXw8e-R2QfNnVc_I6eGbBxuQ5uKmCEX0wKgQH0KQyAwzueevLwbMeKOoTBxPbD1Kmy4LgJ9QfrzFFLyNWVLi-Qv-Y6OqIraJHxXezFETlAU2ZCXiNmCqwG5uTvd7zuYbwxEN_WaZWQ6bNk_KnFTnPjOgiIK5C6rWXJwdiVUdKLFSClqjjf9moaJian14aigcGjBaRI7SEE7lHzr6fmMjlfK-u87MqYWmdU2z1z4gXVleTtircseRRxbU0kwnJN5i7jjBmC6Dgne9kDTCDKUWjHgcNLp0oHmGMRCyr3Yk0Yiey43f7CQbMG8HpRAb_pFTS6QNMznCuVuIM9k9jv8sbsmfxDihCVL-78vkSjhObAVOoO3oJntECTi7kc5KcZSeAABphxYBCDQ6Ywbam5DHAmHyg-wPImDEtOxa8ffdnIv3kyMUHYn7oAico4-4HrGDNv3Mmh02M1975TKTnG-eA7iHt2tLz6YpQHGEipiVUVJHIAFBCxA6vPmpPVPNVCfHQ==","connectionType":"S2S","adProviderName":"GFP","layoutType":"FLUID","creativeType":"BANNER","renderType":"EMPTY","eventTracking":{"ackImpressions":[{"url":"https://siape.veta.naver.com/openrtb/nbackimp?eu=EU10043565\u0026oj=cQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%2Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%2Fwy6g0DT9qCwb3nOqX%2FaUnNzbrNg1uOFbRL%2BjtFEd3a4txii4F7f2%2FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%2Bjskg8Ds2%2FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%2B0EyEH%2F3kUXy6CyeKBmzL2C%2BZ8XKEzQ\u0026evtcd=BID_LOSE\u0026rk=nmvWZkskIqnn1KAIEoLtlg\u0026eltts=x6pR%2FLdKRknv7qVht2LeEg%3D%3D\u0026calp=-\u0026ac=9066535\u0026src=7413573\u0026x_ti=1504\u0026brs=Y"}],"attached":[],"activeViewImpressions":[{"url":"https://siape.veta.naver.com/openrtb/nbimp?oj=cQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%2Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%2Fwy6g0DT9qCwb3nOqX%2FaUnNzbrNg1uOFbRL%2BjtFEd3a4txii4F7f2%2FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%2Bjskg8Ds2%2FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%2B0EyEH%2F3kUXy6CyeKBmzL2C%2BZ8XKEzQ\u0026rk=nmvWZkskIqnn1KAIEoLtlg\u0026eltts=x6pR%2FLdKRknv7qVht2LeEg%3D%3D"}],"renderedImpressions":[],"viewableImpressions":[{"url":"https://siape.veta.naver.com/openrtb/nbimp?oj=cQgn6aire5MPWudjgRbTIOeqQn5SgeG451vCBNrgklu%2Fgt3UFT6wLXh0LtWCChJC5sz8TOCxud%2Fwy6g0DT9qCwb3nOqX%2FaUnNzbrNg1uOFbRL%2BjtFEd3a4txii4F7f2%2FCVZZyBhmNh9Um6krydHIR8ZUV3E600t9QGg3q%2Bjskg8Ds2%2FsKIsqnpH4IYR7C5ZCEFwetYPeoFYojZvrGYoqB9S%2B0EyEH%2F3kUXy6CyeKBmzL2C%2BZ8XKEzQ\u0026rk=nmvWZkskIqnn1KAIEoLtlg\u0026eltts=x6pR%2FLdKRknv7qVht2LeEg%3D%3D"}],"clicks":[],"vimp1px":[],"vimp100":[],"vimp100p":[],"admute":[],"advmute":[],"like":[],"unlike":[],"close":[],"bounce":[]},"adInfo":{"responseSize":{"height":0,"width":0}}}],"config":{"imp":{"ratio":100,"ms":0}}},"additionalInfo":{"adCount":1,"adDuplicate":{"advertiserDomains":["booking.naver.com"],"adDuplicationKeys":["URL:https://booking.naver.com/"]},"adSize":{"h":130,"w":830}}}
+          NAVER   검색                       검색       입력도구     자동완성/최근검색어펼치기   
+    
+      
+      
+        
+          최근검색어
+          
+            전체삭제
+          
+        
+        
+          
+          
+          검색어 저장 기능이 꺼져 있습니다.설정이 초기화 된다면 도움말을 확인해 주세요.
+          
+          
+          최근 검색어 내역이 없습니다.설정이 초기화 된다면 도움말을 확인해 주세요.
+          
+        
+        
+          
+            자동저장 끄기
+            도움말
+          
+          
+            닫기
+          
+        
+      
+      
+      
+        
+          
+            CUE대화하듯 질문해 보세요이 정보가 표시된 이유
+              
+                검색어와 포함된 키워드를 기반으로 AI 기술을 활용하여 연관된 추천 질문을 제공합니다.
+                레이어 닫기
+              
+            
+            
+              
+              
+                이전
+                다음
+              
+            
+          
+          
+          
+          
+            
+              
+                
+                
+              
+              
+              자세히보기
+            
+          
+
+          
+            
+              관심사를 반영한 컨텍스트 자동완성도움말
+            
+            
+              
+              컨텍스트 자동완성
+            
+            
+              컨텍스트 자동완성
+              
+                ON/OFF 설정은 해당기기(브라우저)에 저장됩니다.
+                
+                  자세히 보기
+                
+              
+              
+                동일한 시간대・연령대・남녀별 사용자 그룹의 관심사에 맞춰 자동완성을 제공합니다. 자세히 보기
+                
+                  네이버로그인
+                
+              
+              컨텍스트 자동완성 레이어 닫기
+            
+          
+        
+
+        
+          
+            자동완성 끄기
+            도움말
+            신고
+          
+          
+            닫기
+          
+        
+      
+    
+        메일카페블로그스토어뉴스증권부동산지도웹툰치지직추천바로가기 펼침사이버한국외대AD 확장 영역 페이 바로가기 톡 알림 장바구니알림    뉴스스탠드언론사편집엔터스포츠LIVE경제쇼핑투데이전체언론사연합뉴스붕대감은 북한군 포로 "참전아닌 훈련으로 믿어"…"국정원 통역지원"뉴스스탠드뉴스홈리스트형썸네일형이전 페이지언론사 더보기1페이지전체/4다음 페이지추천・구독자동차웹툰패션뷰티푸드리빙책방지식+건강게임레시피 집중탐구귤청 과육과 설탕 비율을 맞추면 새콤달콤 겨울 홈 카페 완성 푸드스토리익숙한 듯 특별해! 다양하게 즐기기 좋은 순대메인 메뉴는 물론,사이드 메뉴로도 손색없어요 재생시간04:20오늘의 푸드TV주꾸미와 미나리의 매력을 살린 한 그릇 요리감기 기운에 골골할 때영양만점 별미 메뉴로 추천사골 떡국 끓이는법 사골 떡만두국 레시피 만두국MJ의후다닥레시피다이어트 마요네즈 두부 마요네즈 만들기 비건 마요네즈 키토 마요네즈 만드는 법아재주부전자레인지 계란찜 레시피 실리콘 계란찜기 계란찜 시간 물양 이것:)귀여우니매콤 로제 파스타 만들기 로제 파스타 소스 레시피 원팬파스타레즐리생오이무침 오이 양파무침 레시피 새콤달콤 고추장 오이무침 만들기해피데이0219백종원 고추장 진미채볶음 레시피 오징어채볶음MJ의후다닥레시피순두부그라탕 만들기 순두부치즈그라탕 다이어트요리 다이어트식단 순두부요리popo부드러운 진미채볶음 만들기 진미채볶음 레시피 고추장 진미채무침투우맘테마별 레시피#다이어트두부요리연두부 양념장 연두부 먹는법 땅콩버터 다이어트 두부요리MJ의후다닥레시피#다이어트두부요리두부 스크램블에그 만드는법 스크램블 에그 만들기 새해 다이어트음식 간단한 두부요리갱스홈쿡#다이어트두부요리다이어트 요리 두부 유부초밥 만들기 유부초밥 만드는법은솔희섭mom#안주추천브리치즈구이 브리치즈 먹는법 와인안주 추천달달한네뜨#죽소고기죽 레시피 만들기 소고기 야채죽 끓이는법 만드는법봉스#안주추천보코치니 치즈 명란젓무침 간단한 안주 추천 명란젓요리제이맘#다이어트요리임라라 소고기 마녀스프 레시피 토마토 다이어트 요리 만들기봉스#월남쌈만들기집에서 월남쌈 땅콩소스 쉽게 만들기 가성비 냉털요리 월남쌈 만드는법제제#월남쌈만들기월남쌈 재료 땅콩소스 만들기 다이어트 음식 월남쌈 소스 추천꼬마츄츄#집에서술안주집에서 혼술안주 돼지껍질요리 술안주 레시피 돼지껍데기볶음 만드는법 양념은 동파육소스해피니스#볶음밥종류다진소고기볶음밥레시피 집에서 간단한 점심메뉴 소고기야채볶음밥뉴흔둥맘#솥밥레시피스타우브 명란 솥밥 레시피 하는법 양념장 연천쌀 연진봉스#볶음밥종류햄볶음밥 만드는 법 고소하고 담백한 볶음밥 종류 야채볶음밥 레시피 만들기달콤긍정#다이어트요리다이어트 요리 두부 유부초밥 만들기 유부초밥 만드는법은솔희섭mom#볶음밥종류스팸 김치볶음밥 초등겨울방학 한그릇음식 아이김치볶음밥 레시피뽕림이#홈베이킹에어프라이어요리 집에서 카스테라 만들기 이렇게 해보세요 첨가물 없는 홈베이킹빵냄새나는별이네#디저트만들기달콤한 생크림 딸기크레페 만드는법 디저트 후식 생크림요리 딸기요리 핫케이크믹스로 크레이프 만들기금수강산#홈파티음식양파스프 만들기 프렌치 어니언스프 레시피 간단한 홈파티음식봉스#간단한아침메뉴버터 간장계란밥 레시피 간단한 아침밥 메뉴은솔희섭mom#간단한아침밥버터 간장계란밥 레시피 간단한 아침밥 메뉴은솔희섭mom다음 페이지펼쳐보기네이버를 더 안전하고 편리하게 이용하세요NAVER로그인아이디 찾기비밀번호 찾기회원가입날씨예보 비교서울시 을지로1가-5.4°맑음최저기온-7°최고기온2°미세보통초미세보통11시맑음-3.9°13맑음1°15맑음2°17맑음2°19맑음-1°증시정보 더보기로그인 시 관심 종목의 주가를 확인할 수 있습니다.로그아웃 시 인기 검색 종목이 제공됩니다.닫기01.12. 10:14새로고침다우존스41,938.45하락696.75-1.63%삼성전자하락1.43%55,300현대차상승6.10%226,000에코프로비엠하락8.66%120,200인기종목 더보기위젯 보드캘린더1.12일로그인하기캘린더일월화수목금토293031123456789101112131415161718192021222324252627282930311VIBE건강한 삶을위해다른 추천 보기진짜 자기계발은 마음의 근육을 튼튼히 만드는 일입니다 | 박상미 한양대학교 일반대학원 협동과정교수재생'잘하는 아이'보다 '좋은 아이'가 더 행복합니다 | 김현수 정신과 전문의재생건강하고 행복한 삶을 위해 반드시 필요한 케어 서비스 | 나종호 예일대 정신의학과 교수재생영어사전It’s so quiet and peaceful참 조용하고 평화롭다단어 검색하기papago번역하기메모로그인하기다음 페이지모바일 네이버 메인 열기네이버에서 넷플릭스를역대급 멤버십 시작하기  최상단으로 이동홈 설정모바일 버전으로 보기  공지사항서비스 전체보기Partners프로젝트 꽃네이버 비즈니스네이버 비즈니스 스쿨네이버 광고스토어 개설지역업체 등록엑스퍼트 등록Developers네이버 개발자 센터오픈 API오픈소스네이버 D2네이버 D2SF네이버 랩스웨일 브라우저이용안내기업 사이트바로가기네이버 정책 및 약관회사소개인재채용제휴제안이용약관개인정보처리방침청소년보호정책네이버 정책고객센터ⓒ NAVER Corp.        window['EAGER-DATA'] = window['EAGER-DATA'] || {};
+        window['EAGER-DATA']['GV'] = {
+            svt: '20250112101432',  };  !function(){function t(t){var e=document.getElementById("search_area"),n=document.getElementById("search-btn");if(!t)return e&&e.removeAttribute("style"),void(n&&n.setAttribute("style","fill: #03c75a"));e&&e.setAttribute("style","border-color: "+t),n&&n.setAttribute("class","ico_btn_search type_color"),n&&n.setAttribute("style","fill: "+t)}var e=window["EAGER-DATA"]["CAS-MINICONTENT-PC-SPECIAL-LOGO"];if(!e||!e.items||e.items.length>0==!1)return void t();var n=Math.floor(Math.random()*e.items.length),i=e.items[n];e.items=[i],t(i&&i.content&&i.content.input&&i.content.input.color);const l=document.getElementById("search");l&&l.classList.add("type_special_logo_full"),window.addEventListener("header-sticky-state-change",(function(){var t;(t=document.getElementById("header"))&&t.classList.contains("ani_fixed")?l&&l.classList.remove("type_special_logo_full"):l&&l.classList.add("type_special_logo_full")}));var o=i&&i.content&&i.content.input&&i.content.input.placeholder;if(o){var s=document.getElementById("query");s&&o&&s.setAttribute("title",o),s&&o&&s.setAttribute("placeholder",o)}}()   
